@@ -4,6 +4,8 @@ public class Test {
 	private int num;
 	private String name;
 	
+	private Integer count;
+	
 	
 	public int getNum() {
 		return num;
@@ -16,6 +18,12 @@ public class Test {
 	}
 	public void setName(String name) {
 		this.name = name;
+	}
+	public Integer getCount() {
+		return count;
+	}
+	public void setCount(Integer count) {
+		this.count = count;
 	}
 	
 	
