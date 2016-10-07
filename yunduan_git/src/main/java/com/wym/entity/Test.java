@@ -4,7 +4,7 @@ public class Test {
 	private int num;
 	private String name;
 	
-	private int count;
+	private Integer count;
 	
 	
 	public int getNum() {
@@ -19,11 +19,13 @@ public class Test {
 	public void setName(String name) {
 		this.name = name;
 	}
-	public int getCount() {
+
+	public Integer getCount() {
 		return count;
 	}
-	public void setCount(int count) {
+	public void setCount(Integer count) {
 		this.count = count;
 	}
+	
 	
 }
