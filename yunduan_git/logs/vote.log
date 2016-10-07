@@ -1,0 +1,6 @@
+信息 :2016-09-24 15:08:21,448 DEBUG BaseJdbcLogger (BaseJdbcLogger.java:145) - ==>  Preparing: select * from Tag 
+信息 :2016-09-24 15:08:21,635 DEBUG BaseJdbcLogger (BaseJdbcLogger.java:145) - ==> Parameters: 
+信息 :2016-09-24 15:08:21,726 DEBUG BaseJdbcLogger (BaseJdbcLogger.java:145) - <==      Total: 3
+信息 :2016-09-24 15:14:52,431 DEBUG BaseJdbcLogger (BaseJdbcLogger.java:145) - ==>  Preparing: select * from Tag 
+信息 :2016-09-24 15:14:52,575 DEBUG BaseJdbcLogger (BaseJdbcLogger.java:145) - ==> Parameters: 
+信息 :2016-09-24 15:14:52,687 DEBUG BaseJdbcLogger (BaseJdbcLogger.java:145) - <==      Total: 3
